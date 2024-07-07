@@ -1,0 +1,5 @@
+.nav-list {
+    font-size: 20px;
+    display: flex;
+    column-gap: 20px;
+}

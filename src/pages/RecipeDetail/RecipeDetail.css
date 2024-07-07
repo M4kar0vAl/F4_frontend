@@ -1,0 +1,9 @@
+.recipe-info {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.recipe-text {
+    margin: 0 auto;
+}
